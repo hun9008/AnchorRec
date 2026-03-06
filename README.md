@@ -20,3 +20,4 @@ conda env create -f env.yaml
 
 - python 3.8
 - Torch 2.4.1
+  
